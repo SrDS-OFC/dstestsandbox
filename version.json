@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "",
-  "changelog": "Versão inicial do ambiente Sandbox de testes."
+  "version": "2.1.1",
+  "download_url": "https://github.com/SrDS-OFC/dstestsandbox/releases/download/v2.1.1/test.exe",
+  "changelog": "test"
 }
